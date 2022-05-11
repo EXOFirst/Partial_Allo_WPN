@@ -1,5 +1,7 @@
 """
 This file is agent for simulation 
+But this file isn`t complete
+will working after KMMS 
 """
 
 import numpy as np 
